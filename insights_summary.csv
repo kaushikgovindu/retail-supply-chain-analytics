@@ -1,0 +1,53 @@
+--- Insight Query 1 ---
+store_name,category,product_name,total_orders,stockout_count,stockout_rate_pct
+
+--- Insight Query 2 ---
+fc_name,store_region,avg_lead_time_days,total_shipments
+Toronto FC,Eastern,5.02,5635
+Toronto FC,Western,5.01,2339
+Calgary FC,Eastern,5.0,5581
+Montreal FC,Eastern,5.0,5536
+Mississauga FC,Eastern,4.98,5580
+Richmond Hill FC,Eastern,4.98,5566
+Mississauga FC,Western,4.97,2398
+Montreal FC,Western,4.96,2392
+Calgary FC,Western,4.94,2384
+Richmond Hill FC,Western,4.91,2414
+
+--- Insight Query 3 ---
+carrier_name,service_level,total_shipments,on_time_delivery_pct
+Purolator,Next Day,9920,84.71
+Internal Fleet,Standard LTL,9989,84.99
+Canada Post,Standard,9969,85.12
+UPS Canada,2-Day,10122,85.27
+
+--- Insight Query 4 ---
+fc_name,store_name,total_shipped,total_transport_cost,avg_cost_per_unit,avg_fill_rate_pct
+Toronto FC,Staples Store Montreal #52,21200,695430.9,32.8,90.48
+Mississauga FC,Staples Store Mississauga #21,26677,807521.79,30.27,90.05
+Mississauga FC,Staples Store Montreal #53,26266,793538.16,30.21,91.08
+Mississauga FC,Staples Store Vancouver #39,21037,624291.06,29.68,88.56
+Toronto FC,Staples Store Vancouver #38,17688,519965.58,29.4,89.97
+Richmond Hill FC,Staples Store Toronto #11,23348,683545.45,29.28,91.56
+Mississauga FC,Staples Store Ottawa #34,13479,393176.74,29.17,87.73
+Toronto FC,Staples Store Toronto #13,20269,590804.3099999999,29.15,89.23
+Calgary FC,Staples Store Toronto #8,20209,587220.97,29.06,93.02
+Toronto FC,Staples Store Montreal #55,19896,573618.97,28.83,89.94
+
+--- Insight Query 5 ---
+category,inventory_turnover,stockout_rate_pct,avg_holding_cost
+Furniture,300.6,19.86,563.02
+
+--- Insight Query 6 ---
+location_name,product_name,reorder_point,avg_qty_on_hand,total_orders,stockout_events,stockout_rt_pct
+Staples Store Calgary #46,Staples Chairs Model 18,26,11.0,1,1,100.0
+Staples Store Calgary #46,Staples Chairs Model 18,32,27.0,1,1,100.0
+Staples Store Calgary #46,Staples Chairs Model 18,33,113.0,1,1,100.0
+Staples Store Calgary #46,Staples Chairs Model 18,35,55.0,1,1,100.0
+Staples Store Calgary #46,Staples Chairs Model 18,36,184.0,1,1,100.0
+Staples Store Calgary #46,Staples Chairs Model 18,50,434.0,1,1,100.0
+Staples Store Calgary #46,Staples Chairs Model 18,52,392.5,2,2,100.0
+Staples Store Calgary #46,Staples Chairs Model 18,58,440.0,1,1,100.0
+Staples Store Calgary #46,Staples Chairs Model 18,59,210.5,2,2,100.0
+Staples Store Calgary #46,Staples Chairs Model 18,60,170.0,1,1,100.0
+

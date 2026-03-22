@@ -1,0 +1,501 @@
+product_id,sku_code,product_name,category,sub_category,unit_cost
+1,FUR-CHA-0001,Staples Chairs Model 1,Furniture,Chairs,86.27
+2,FUR-FIL-0002,Staples Filing Cabinets Model 2,Furniture,Filing Cabinets,405.09
+3,FUR-DES-0003,Staples Desks Model 3,Furniture,Desks,1117.88
+4,FUR-CHA-0004,Staples Chairs Model 4,Furniture,Chairs,906.21
+5,FUR-CHA-0005,Staples Chairs Model 5,Furniture,Chairs,93.21
+6,FUR-DES-0006,Staples Desks Model 6,Furniture,Desks,387.36
+7,FUR-CHA-0007,Staples Chairs Model 7,Furniture,Chairs,863.81
+8,FUR-TAB-0008,Staples Tables Model 8,Furniture,Tables,369.64
+9,FUR-FIL-0009,Staples Filing Cabinets Model 9,Furniture,Filing Cabinets,1223.67
+10,FUR-CHA-0010,Staples Chairs Model 10,Furniture,Chairs,1150.27
+11,FUR-DES-0011,Staples Desks Model 11,Furniture,Desks,1062.3
+12,FUR-FIL-0012,Staples Filing Cabinets Model 12,Furniture,Filing Cabinets,452.91
+13,FUR-DES-0013,Staples Desks Model 13,Furniture,Desks,1437.96
+14,FUR-FIL-0014,Staples Filing Cabinets Model 14,Furniture,Filing Cabinets,198.2
+15,FUR-TAB-0015,Staples Tables Model 15,Furniture,Tables,190.24
+16,FUR-FIL-0016,Staples Filing Cabinets Model 16,Furniture,Filing Cabinets,925.4
+17,FUR-CHA-0017,Staples Chairs Model 17,Furniture,Chairs,1108.11
+18,FUR-CHA-0018,Staples Chairs Model 18,Furniture,Chairs,1461.02
+19,FUR-TAB-0019,Staples Tables Model 19,Furniture,Tables,164.26
+20,FUR-FIL-0020,Staples Filing Cabinets Model 20,Furniture,Filing Cabinets,1252.64
+21,FUR-FIL-0021,Staples Filing Cabinets Model 21,Furniture,Filing Cabinets,887.16
+22,FUR-CHA-0022,Staples Chairs Model 22,Furniture,Chairs,116.45
+23,FUR-DES-0023,Staples Desks Model 23,Furniture,Desks,1170.95
+24,FUR-CHA-0024,Staples Chairs Model 24,Furniture,Chairs,1290.21
+25,FUR-CHA-0025,Staples Chairs Model 25,Furniture,Chairs,601.18
+26,FUR-TAB-0026,Staples Tables Model 26,Furniture,Tables,971.74
+27,FUR-FIL-0027,Staples Filing Cabinets Model 27,Furniture,Filing Cabinets,285.85
+28,FUR-FIL-0028,Staples Filing Cabinets Model 28,Furniture,Filing Cabinets,353.79
+29,FUR-FIL-0029,Staples Filing Cabinets Model 29,Furniture,Filing Cabinets,1067.64
+30,FUR-CHA-0030,Staples Chairs Model 30,Furniture,Chairs,933.24
+31,FUR-DES-0031,Staples Desks Model 31,Furniture,Desks,824.5
+32,FUR-DES-0032,Staples Desks Model 32,Furniture,Desks,286.93
+33,FUR-TAB-0033,Staples Tables Model 33,Furniture,Tables,441.42
+34,FUR-DES-0034,Staples Desks Model 34,Furniture,Desks,1042.69
+35,FUR-CHA-0035,Staples Chairs Model 35,Furniture,Chairs,382.12
+36,FUR-CHA-0036,Staples Chairs Model 36,Furniture,Chairs,1217.32
+37,FUR-TAB-0037,Staples Tables Model 37,Furniture,Tables,438.22
+38,FUR-DES-0038,Staples Desks Model 38,Furniture,Desks,1374.05
+39,FUR-FIL-0039,Staples Filing Cabinets Model 39,Furniture,Filing Cabinets,358.31
+40,FUR-TAB-0040,Staples Tables Model 40,Furniture,Tables,623.67
+41,FUR-TAB-0041,Staples Tables Model 41,Furniture,Tables,257.16
+42,FUR-DES-0042,Staples Desks Model 42,Furniture,Desks,407.61
+43,FUR-FIL-0043,Staples Filing Cabinets Model 43,Furniture,Filing Cabinets,1133.17
+44,FUR-TAB-0044,Staples Tables Model 44,Furniture,Tables,1351.84
+45,FUR-TAB-0045,Staples Tables Model 45,Furniture,Tables,574.89
+46,FUR-DES-0046,Staples Desks Model 46,Furniture,Desks,788.81
+47,FUR-CHA-0047,Staples Chairs Model 47,Furniture,Chairs,1145.88
+48,FUR-CHA-0048,Staples Chairs Model 48,Furniture,Chairs,271.62
+49,FUR-DES-0049,Staples Desks Model 49,Furniture,Desks,1198.52
+50,FUR-TAB-0050,Staples Tables Model 50,Furniture,Tables,914.79
+51,FUR-TAB-0051,Staples Tables Model 51,Furniture,Tables,603.35
+52,FUR-TAB-0052,Staples Tables Model 52,Furniture,Tables,817.22
+53,FUR-CHA-0053,Staples Chairs Model 53,Furniture,Chairs,1036.41
+54,FUR-CHA-0054,Staples Chairs Model 54,Furniture,Chairs,1038.48
+55,FUR-FIL-0055,Staples Filing Cabinets Model 55,Furniture,Filing Cabinets,1164.47
+56,FUR-FIL-0056,Staples Filing Cabinets Model 56,Furniture,Filing Cabinets,211.75
+57,FUR-TAB-0057,Staples Tables Model 57,Furniture,Tables,279.33
+58,FUR-CHA-0058,Staples Chairs Model 58,Furniture,Chairs,1433.03
+59,FUR-FIL-0059,Staples Filing Cabinets Model 59,Furniture,Filing Cabinets,1459.24
+60,FUR-DES-0060,Staples Desks Model 60,Furniture,Desks,786.14
+61,FUR-CHA-0061,Staples Chairs Model 61,Furniture,Chairs,1312.25
+62,FUR-FIL-0062,Staples Filing Cabinets Model 62,Furniture,Filing Cabinets,1270.42
+63,FUR-DES-0063,Staples Desks Model 63,Furniture,Desks,271.62
+64,FUR-DES-0064,Staples Desks Model 64,Furniture,Desks,832.1
+65,FUR-CHA-0065,Staples Chairs Model 65,Furniture,Chairs,918.47
+66,FUR-TAB-0066,Staples Tables Model 66,Furniture,Tables,78.24
+67,FUR-FIL-0067,Staples Filing Cabinets Model 67,Furniture,Filing Cabinets,1324.15
+68,FUR-FIL-0068,Staples Filing Cabinets Model 68,Furniture,Filing Cabinets,397.21
+69,FUR-DES-0069,Staples Desks Model 69,Furniture,Desks,1323.11
+70,FUR-CHA-0070,Staples Chairs Model 70,Furniture,Chairs,174.2
+71,FUR-TAB-0071,Staples Tables Model 71,Furniture,Tables,1233.23
+72,FUR-DES-0072,Staples Desks Model 72,Furniture,Desks,236.17
+73,FUR-TAB-0073,Staples Tables Model 73,Furniture,Tables,1422.93
+74,FUR-DES-0074,Staples Desks Model 74,Furniture,Desks,434.33
+75,FUR-TAB-0075,Staples Tables Model 75,Furniture,Tables,1448.33
+76,FUR-DES-0076,Staples Desks Model 76,Furniture,Desks,1083.78
+77,FUR-TAB-0077,Staples Tables Model 77,Furniture,Tables,1492.97
+78,FUR-FIL-0078,Staples Filing Cabinets Model 78,Furniture,Filing Cabinets,685.25
+79,FUR-TAB-0079,Staples Tables Model 79,Furniture,Tables,225.46
+80,FUR-DES-0080,Staples Desks Model 80,Furniture,Desks,142.84
+81,FUR-CHA-0081,Staples Chairs Model 81,Furniture,Chairs,903.05
+82,FUR-DES-0082,Staples Desks Model 82,Furniture,Desks,903.24
+83,FUR-CHA-0083,Staples Chairs Model 83,Furniture,Chairs,152.94
+84,FUR-CHA-0084,Staples Chairs Model 84,Furniture,Chairs,381.97
+85,FUR-CHA-0085,Staples Chairs Model 85,Furniture,Chairs,1296.47
+86,FUR-CHA-0086,Staples Chairs Model 86,Furniture,Chairs,795.53
+87,FUR-FIL-0087,Staples Filing Cabinets Model 87,Furniture,Filing Cabinets,1020.02
+88,FUR-DES-0088,Staples Desks Model 88,Furniture,Desks,831.89
+89,FUR-TAB-0089,Staples Tables Model 89,Furniture,Tables,402.35
+90,FUR-TAB-0090,Staples Tables Model 90,Furniture,Tables,1220.87
+91,FUR-DES-0091,Staples Desks Model 91,Furniture,Desks,186.77
+92,FUR-TAB-0092,Staples Tables Model 92,Furniture,Tables,563.73
+93,FUR-TAB-0093,Staples Tables Model 93,Furniture,Tables,727.19
+94,FUR-CHA-0094,Staples Chairs Model 94,Furniture,Chairs,1026.38
+95,FUR-CHA-0095,Staples Chairs Model 95,Furniture,Chairs,137.89
+96,FUR-FIL-0096,Staples Filing Cabinets Model 96,Furniture,Filing Cabinets,1210.86
+97,FUR-CHA-0097,Staples Chairs Model 97,Furniture,Chairs,410.55
+98,FUR-DES-0098,Staples Desks Model 98,Furniture,Desks,827.61
+99,FUR-DES-0099,Staples Desks Model 99,Furniture,Desks,661.73
+100,FUR-FIL-0100,Staples Filing Cabinets Model 100,Furniture,Filing Cabinets,720.81
+101,TEC-MON-0101,Staples Monitors Model 101,Technology,Monitors,692.54
+102,TEC-MON-0102,Staples Monitors Model 102,Technology,Monitors,123.35
+103,TEC-MON-0103,Staples Monitors Model 103,Technology,Monitors,1455.04
+104,TEC-LAP-0104,Staples Laptops Model 104,Technology,Laptops,291.15
+105,TEC-ACC-0105,Staples Accessories Model 105,Technology,Accessories,747.97
+106,TEC-ACC-0106,Staples Accessories Model 106,Technology,Accessories,1358.54
+107,TEC-LAP-0107,Staples Laptops Model 107,Technology,Laptops,599.51
+108,TEC-ACC-0108,Staples Accessories Model 108,Technology,Accessories,434.54
+109,TEC-ACC-0109,Staples Accessories Model 109,Technology,Accessories,463.61
+110,TEC-ACC-0110,Staples Accessories Model 110,Technology,Accessories,274.46
+111,TEC-PRI-0111,Staples Printers Model 111,Technology,Printers,365.67
+112,TEC-MON-0112,Staples Monitors Model 112,Technology,Monitors,889.81
+113,TEC-MON-0113,Staples Monitors Model 113,Technology,Monitors,1134.56
+114,TEC-MON-0114,Staples Monitors Model 114,Technology,Monitors,122.71
+115,TEC-ACC-0115,Staples Accessories Model 115,Technology,Accessories,779.13
+116,TEC-LAP-0116,Staples Laptops Model 116,Technology,Laptops,132.48
+117,TEC-MON-0117,Staples Monitors Model 117,Technology,Monitors,1284.45
+118,TEC-MON-0118,Staples Monitors Model 118,Technology,Monitors,912.8
+119,TEC-LAP-0119,Staples Laptops Model 119,Technology,Laptops,635.47
+120,TEC-LAP-0120,Staples Laptops Model 120,Technology,Laptops,889.43
+121,TEC-MON-0121,Staples Monitors Model 121,Technology,Monitors,948.1
+122,TEC-ACC-0122,Staples Accessories Model 122,Technology,Accessories,1003.19
+123,TEC-PRI-0123,Staples Printers Model 123,Technology,Printers,1405.32
+124,TEC-LAP-0124,Staples Laptops Model 124,Technology,Laptops,1021.1
+125,TEC-PRI-0125,Staples Printers Model 125,Technology,Printers,396.09
+126,TEC-ACC-0126,Staples Accessories Model 126,Technology,Accessories,239.77
+127,TEC-PRI-0127,Staples Printers Model 127,Technology,Printers,712.98
+128,TEC-MON-0128,Staples Monitors Model 128,Technology,Monitors,63.51
+129,TEC-MON-0129,Staples Monitors Model 129,Technology,Monitors,156.23
+130,TEC-LAP-0130,Staples Laptops Model 130,Technology,Laptops,783.53
+131,TEC-LAP-0131,Staples Laptops Model 131,Technology,Laptops,1403.23
+132,TEC-MON-0132,Staples Monitors Model 132,Technology,Monitors,1324.94
+133,TEC-PRI-0133,Staples Printers Model 133,Technology,Printers,463.23
+134,TEC-ACC-0134,Staples Accessories Model 134,Technology,Accessories,1258.93
+135,TEC-PRI-0135,Staples Printers Model 135,Technology,Printers,936.93
+136,TEC-MON-0136,Staples Monitors Model 136,Technology,Monitors,1018.4
+137,TEC-PRI-0137,Staples Printers Model 137,Technology,Printers,1401.05
+138,TEC-MON-0138,Staples Monitors Model 138,Technology,Monitors,1411.45
+139,TEC-LAP-0139,Staples Laptops Model 139,Technology,Laptops,433.48
+140,TEC-MON-0140,Staples Monitors Model 140,Technology,Monitors,1126.5
+141,TEC-LAP-0141,Staples Laptops Model 141,Technology,Laptops,444.9
+142,TEC-LAP-0142,Staples Laptops Model 142,Technology,Laptops,1090.54
+143,TEC-LAP-0143,Staples Laptops Model 143,Technology,Laptops,1046.87
+144,TEC-PRI-0144,Staples Printers Model 144,Technology,Printers,782.84
+145,TEC-PRI-0145,Staples Printers Model 145,Technology,Printers,1362.74
+146,TEC-MON-0146,Staples Monitors Model 146,Technology,Monitors,183.83
+147,TEC-ACC-0147,Staples Accessories Model 147,Technology,Accessories,1252.55
+148,TEC-MON-0148,Staples Monitors Model 148,Technology,Monitors,55.14
+149,TEC-LAP-0149,Staples Laptops Model 149,Technology,Laptops,973.81
+150,TEC-PRI-0150,Staples Printers Model 150,Technology,Printers,284.29
+151,TEC-ACC-0151,Staples Accessories Model 151,Technology,Accessories,849.94
+152,TEC-ACC-0152,Staples Accessories Model 152,Technology,Accessories,863.31
+153,TEC-MON-0153,Staples Monitors Model 153,Technology,Monitors,159.1
+154,TEC-LAP-0154,Staples Laptops Model 154,Technology,Laptops,841.11
+155,TEC-PRI-0155,Staples Printers Model 155,Technology,Printers,894.64
+156,TEC-LAP-0156,Staples Laptops Model 156,Technology,Laptops,673.19
+157,TEC-MON-0157,Staples Monitors Model 157,Technology,Monitors,496.97
+158,TEC-MON-0158,Staples Monitors Model 158,Technology,Monitors,1353.44
+159,TEC-LAP-0159,Staples Laptops Model 159,Technology,Laptops,1039.0
+160,TEC-MON-0160,Staples Monitors Model 160,Technology,Monitors,562.83
+161,TEC-ACC-0161,Staples Accessories Model 161,Technology,Accessories,1462.06
+162,TEC-LAP-0162,Staples Laptops Model 162,Technology,Laptops,1392.36
+163,TEC-LAP-0163,Staples Laptops Model 163,Technology,Laptops,1303.68
+164,TEC-LAP-0164,Staples Laptops Model 164,Technology,Laptops,1328.05
+165,TEC-MON-0165,Staples Monitors Model 165,Technology,Monitors,310.07
+166,TEC-PRI-0166,Staples Printers Model 166,Technology,Printers,1184.46
+167,TEC-ACC-0167,Staples Accessories Model 167,Technology,Accessories,1213.24
+168,TEC-LAP-0168,Staples Laptops Model 168,Technology,Laptops,436.87
+169,TEC-MON-0169,Staples Monitors Model 169,Technology,Monitors,604.69
+170,TEC-MON-0170,Staples Monitors Model 170,Technology,Monitors,1294.96
+171,TEC-LAP-0171,Staples Laptops Model 171,Technology,Laptops,339.38
+172,TEC-ACC-0172,Staples Accessories Model 172,Technology,Accessories,557.0
+173,TEC-LAP-0173,Staples Laptops Model 173,Technology,Laptops,373.24
+174,TEC-LAP-0174,Staples Laptops Model 174,Technology,Laptops,627.78
+175,TEC-PRI-0175,Staples Printers Model 175,Technology,Printers,1303.31
+176,TEC-PRI-0176,Staples Printers Model 176,Technology,Printers,559.16
+177,TEC-ACC-0177,Staples Accessories Model 177,Technology,Accessories,1035.3
+178,TEC-PRI-0178,Staples Printers Model 178,Technology,Printers,1411.89
+179,TEC-MON-0179,Staples Monitors Model 179,Technology,Monitors,1321.71
+180,TEC-PRI-0180,Staples Printers Model 180,Technology,Printers,308.92
+181,TEC-PRI-0181,Staples Printers Model 181,Technology,Printers,105.47
+182,TEC-ACC-0182,Staples Accessories Model 182,Technology,Accessories,551.25
+183,TEC-PRI-0183,Staples Printers Model 183,Technology,Printers,682.77
+184,TEC-MON-0184,Staples Monitors Model 184,Technology,Monitors,608.53
+185,TEC-LAP-0185,Staples Laptops Model 185,Technology,Laptops,419.35
+186,TEC-ACC-0186,Staples Accessories Model 186,Technology,Accessories,52.45
+187,TEC-LAP-0187,Staples Laptops Model 187,Technology,Laptops,578.12
+188,TEC-MON-0188,Staples Monitors Model 188,Technology,Monitors,1425.87
+189,TEC-PRI-0189,Staples Printers Model 189,Technology,Printers,953.58
+190,TEC-MON-0190,Staples Monitors Model 190,Technology,Monitors,1093.64
+191,TEC-PRI-0191,Staples Printers Model 191,Technology,Printers,785.33
+192,TEC-ACC-0192,Staples Accessories Model 192,Technology,Accessories,522.97
+193,TEC-PRI-0193,Staples Printers Model 193,Technology,Printers,853.9
+194,TEC-LAP-0194,Staples Laptops Model 194,Technology,Laptops,659.65
+195,TEC-ACC-0195,Staples Accessories Model 195,Technology,Accessories,1032.11
+196,TEC-LAP-0196,Staples Laptops Model 196,Technology,Laptops,942.5
+197,TEC-PRI-0197,Staples Printers Model 197,Technology,Printers,638.81
+198,TEC-MON-0198,Staples Monitors Model 198,Technology,Monitors,490.62
+199,TEC-LAP-0199,Staples Laptops Model 199,Technology,Laptops,673.34
+200,TEC-PRI-0200,Staples Printers Model 200,Technology,Printers,724.23
+201,TEC-ACC-0201,Staples Accessories Model 201,Technology,Accessories,1029.66
+202,TEC-ACC-0202,Staples Accessories Model 202,Technology,Accessories,1200.92
+203,TEC-LAP-0203,Staples Laptops Model 203,Technology,Laptops,1005.33
+204,TEC-PRI-0204,Staples Printers Model 204,Technology,Printers,797.41
+205,TEC-PRI-0205,Staples Printers Model 205,Technology,Printers,185.41
+206,TEC-LAP-0206,Staples Laptops Model 206,Technology,Laptops,1025.55
+207,TEC-LAP-0207,Staples Laptops Model 207,Technology,Laptops,1219.52
+208,TEC-LAP-0208,Staples Laptops Model 208,Technology,Laptops,85.42
+209,TEC-LAP-0209,Staples Laptops Model 209,Technology,Laptops,1476.71
+210,TEC-MON-0210,Staples Monitors Model 210,Technology,Monitors,710.35
+211,TEC-LAP-0211,Staples Laptops Model 211,Technology,Laptops,1091.6
+212,TEC-ACC-0212,Staples Accessories Model 212,Technology,Accessories,766.85
+213,TEC-LAP-0213,Staples Laptops Model 213,Technology,Laptops,263.98
+214,TEC-MON-0214,Staples Monitors Model 214,Technology,Monitors,1344.36
+215,TEC-MON-0215,Staples Monitors Model 215,Technology,Monitors,1178.71
+216,TEC-LAP-0216,Staples Laptops Model 216,Technology,Laptops,305.04
+217,TEC-ACC-0217,Staples Accessories Model 217,Technology,Accessories,122.82
+218,TEC-LAP-0218,Staples Laptops Model 218,Technology,Laptops,1380.33
+219,TEC-MON-0219,Staples Monitors Model 219,Technology,Monitors,711.87
+220,TEC-ACC-0220,Staples Accessories Model 220,Technology,Accessories,1017.99
+221,TEC-PRI-0221,Staples Printers Model 221,Technology,Printers,1427.56
+222,TEC-ACC-0222,Staples Accessories Model 222,Technology,Accessories,938.35
+223,TEC-ACC-0223,Staples Accessories Model 223,Technology,Accessories,1254.33
+224,TEC-ACC-0224,Staples Accessories Model 224,Technology,Accessories,1350.95
+225,TEC-ACC-0225,Staples Accessories Model 225,Technology,Accessories,702.6
+226,TEC-LAP-0226,Staples Laptops Model 226,Technology,Laptops,1267.8
+227,TEC-PRI-0227,Staples Printers Model 227,Technology,Printers,1160.43
+228,TEC-ACC-0228,Staples Accessories Model 228,Technology,Accessories,958.79
+229,TEC-PRI-0229,Staples Printers Model 229,Technology,Printers,687.82
+230,TEC-PRI-0230,Staples Printers Model 230,Technology,Printers,390.02
+231,TEC-PRI-0231,Staples Printers Model 231,Technology,Printers,513.58
+232,TEC-MON-0232,Staples Monitors Model 232,Technology,Monitors,250.64
+233,TEC-LAP-0233,Staples Laptops Model 233,Technology,Laptops,605.4
+234,TEC-LAP-0234,Staples Laptops Model 234,Technology,Laptops,1074.31
+235,TEC-MON-0235,Staples Monitors Model 235,Technology,Monitors,651.56
+236,TEC-PRI-0236,Staples Printers Model 236,Technology,Printers,836.79
+237,TEC-ACC-0237,Staples Accessories Model 237,Technology,Accessories,140.29
+238,TEC-ACC-0238,Staples Accessories Model 238,Technology,Accessories,614.74
+239,TEC-MON-0239,Staples Monitors Model 239,Technology,Monitors,1292.26
+240,TEC-ACC-0240,Staples Accessories Model 240,Technology,Accessories,741.62
+241,TEC-PRI-0241,Staples Printers Model 241,Technology,Printers,482.99
+242,TEC-ACC-0242,Staples Accessories Model 242,Technology,Accessories,1287.5
+243,TEC-ACC-0243,Staples Accessories Model 243,Technology,Accessories,830.42
+244,TEC-LAP-0244,Staples Laptops Model 244,Technology,Laptops,757.93
+245,TEC-PRI-0245,Staples Printers Model 245,Technology,Printers,681.96
+246,TEC-MON-0246,Staples Monitors Model 246,Technology,Monitors,613.84
+247,TEC-ACC-0247,Staples Accessories Model 247,Technology,Accessories,1100.06
+248,TEC-ACC-0248,Staples Accessories Model 248,Technology,Accessories,1383.34
+249,TEC-MON-0249,Staples Monitors Model 249,Technology,Monitors,1365.05
+250,TEC-MON-0250,Staples Monitors Model 250,Technology,Monitors,171.72
+251,OFF-STA-0251,Staples Staplers Model 251,Office Supplies,Staplers,17.89
+252,OFF-STA-0252,Staples Staplers Model 252,Office Supplies,Staplers,22.26
+253,OFF-BIN-0253,Staples Binders Model 253,Office Supplies,Binders,41.01
+254,OFF-PAP-0254,Staples Paper Model 254,Office Supplies,Paper,48.2
+255,OFF-BIN-0255,Staples Binders Model 255,Office Supplies,Binders,77.32
+256,OFF-STA-0256,Staples Staplers Model 256,Office Supplies,Staplers,31.43
+257,OFF-STA-0257,Staples Staplers Model 257,Office Supplies,Staplers,28.97
+258,OFF-PEN-0258,Staples Pens Model 258,Office Supplies,Pens,49.68
+259,OFF-NOT-0259,Staples Notebooks Model 259,Office Supplies,Notebooks,9.95
+260,OFF-BIN-0260,Staples Binders Model 260,Office Supplies,Binders,26.3
+261,OFF-PEN-0261,Staples Pens Model 261,Office Supplies,Pens,79.22
+262,OFF-PEN-0262,Staples Pens Model 262,Office Supplies,Pens,76.65
+263,OFF-PAP-0263,Staples Paper Model 263,Office Supplies,Paper,23.94
+264,OFF-PEN-0264,Staples Pens Model 264,Office Supplies,Pens,64.03
+265,OFF-PAP-0265,Staples Paper Model 265,Office Supplies,Paper,16.99
+266,OFF-PEN-0266,Staples Pens Model 266,Office Supplies,Pens,58.58
+267,OFF-PAP-0267,Staples Paper Model 267,Office Supplies,Paper,49.18
+268,OFF-BIN-0268,Staples Binders Model 268,Office Supplies,Binders,77.86
+269,OFF-PAP-0269,Staples Paper Model 269,Office Supplies,Paper,62.56
+270,OFF-PEN-0270,Staples Pens Model 270,Office Supplies,Pens,78.89
+271,OFF-PAP-0271,Staples Paper Model 271,Office Supplies,Paper,96.65
+272,OFF-PEN-0272,Staples Pens Model 272,Office Supplies,Pens,59.98
+273,OFF-BIN-0273,Staples Binders Model 273,Office Supplies,Binders,59.7
+274,OFF-STA-0274,Staples Staplers Model 274,Office Supplies,Staplers,42.68
+275,OFF-PAP-0275,Staples Paper Model 275,Office Supplies,Paper,12.22
+276,OFF-PAP-0276,Staples Paper Model 276,Office Supplies,Paper,14.68
+277,OFF-BIN-0277,Staples Binders Model 277,Office Supplies,Binders,85.78
+278,OFF-NOT-0278,Staples Notebooks Model 278,Office Supplies,Notebooks,81.53
+279,OFF-NOT-0279,Staples Notebooks Model 279,Office Supplies,Notebooks,79.35
+280,OFF-BIN-0280,Staples Binders Model 280,Office Supplies,Binders,55.61
+281,OFF-BIN-0281,Staples Binders Model 281,Office Supplies,Binders,11.55
+282,OFF-BIN-0282,Staples Binders Model 282,Office Supplies,Binders,6.2
+283,OFF-STA-0283,Staples Staplers Model 283,Office Supplies,Staplers,83.12
+284,OFF-PEN-0284,Staples Pens Model 284,Office Supplies,Pens,46.18
+285,OFF-BIN-0285,Staples Binders Model 285,Office Supplies,Binders,65.38
+286,OFF-STA-0286,Staples Staplers Model 286,Office Supplies,Staplers,72.19
+287,OFF-STA-0287,Staples Staplers Model 287,Office Supplies,Staplers,21.73
+288,OFF-NOT-0288,Staples Notebooks Model 288,Office Supplies,Notebooks,96.72
+289,OFF-BIN-0289,Staples Binders Model 289,Office Supplies,Binders,63.51
+290,OFF-NOT-0290,Staples Notebooks Model 290,Office Supplies,Notebooks,78.59
+291,OFF-STA-0291,Staples Staplers Model 291,Office Supplies,Staplers,46.38
+292,OFF-NOT-0292,Staples Notebooks Model 292,Office Supplies,Notebooks,30.5
+293,OFF-PAP-0293,Staples Paper Model 293,Office Supplies,Paper,83.92
+294,OFF-PEN-0294,Staples Pens Model 294,Office Supplies,Pens,31.5
+295,OFF-STA-0295,Staples Staplers Model 295,Office Supplies,Staplers,28.17
+296,OFF-STA-0296,Staples Staplers Model 296,Office Supplies,Staplers,59.14
+297,OFF-STA-0297,Staples Staplers Model 297,Office Supplies,Staplers,36.96
+298,OFF-STA-0298,Staples Staplers Model 298,Office Supplies,Staplers,85.84
+299,OFF-PAP-0299,Staples Paper Model 299,Office Supplies,Paper,51.32
+300,OFF-BIN-0300,Staples Binders Model 300,Office Supplies,Binders,80.79
+301,OFF-BIN-0301,Staples Binders Model 301,Office Supplies,Binders,31.57
+302,OFF-NOT-0302,Staples Notebooks Model 302,Office Supplies,Notebooks,71.61
+303,OFF-BIN-0303,Staples Binders Model 303,Office Supplies,Binders,57.8
+304,OFF-NOT-0304,Staples Notebooks Model 304,Office Supplies,Notebooks,95.07
+305,OFF-PEN-0305,Staples Pens Model 305,Office Supplies,Pens,27.93
+306,OFF-STA-0306,Staples Staplers Model 306,Office Supplies,Staplers,51.41
+307,OFF-PAP-0307,Staples Paper Model 307,Office Supplies,Paper,70.61
+308,OFF-STA-0308,Staples Staplers Model 308,Office Supplies,Staplers,47.58
+309,OFF-PEN-0309,Staples Pens Model 309,Office Supplies,Pens,13.84
+310,OFF-PAP-0310,Staples Paper Model 310,Office Supplies,Paper,43.42
+311,OFF-PAP-0311,Staples Paper Model 311,Office Supplies,Paper,34.09
+312,OFF-NOT-0312,Staples Notebooks Model 312,Office Supplies,Notebooks,40.06
+313,OFF-NOT-0313,Staples Notebooks Model 313,Office Supplies,Notebooks,55.44
+314,OFF-STA-0314,Staples Staplers Model 314,Office Supplies,Staplers,99.68
+315,OFF-NOT-0315,Staples Notebooks Model 315,Office Supplies,Notebooks,36.43
+316,OFF-STA-0316,Staples Staplers Model 316,Office Supplies,Staplers,30.74
+317,OFF-BIN-0317,Staples Binders Model 317,Office Supplies,Binders,26.9
+318,OFF-PAP-0318,Staples Paper Model 318,Office Supplies,Paper,34.98
+319,OFF-NOT-0319,Staples Notebooks Model 319,Office Supplies,Notebooks,95.33
+320,OFF-PAP-0320,Staples Paper Model 320,Office Supplies,Paper,23.2
+321,OFF-STA-0321,Staples Staplers Model 321,Office Supplies,Staplers,31.27
+322,OFF-NOT-0322,Staples Notebooks Model 322,Office Supplies,Notebooks,97.78
+323,OFF-NOT-0323,Staples Notebooks Model 323,Office Supplies,Notebooks,61.7
+324,OFF-PEN-0324,Staples Pens Model 324,Office Supplies,Pens,84.1
+325,OFF-BIN-0325,Staples Binders Model 325,Office Supplies,Binders,26.61
+326,OFF-PAP-0326,Staples Paper Model 326,Office Supplies,Paper,33.72
+327,OFF-NOT-0327,Staples Notebooks Model 327,Office Supplies,Notebooks,17.03
+328,OFF-PEN-0328,Staples Pens Model 328,Office Supplies,Pens,97.56
+329,OFF-NOT-0329,Staples Notebooks Model 329,Office Supplies,Notebooks,32.75
+330,OFF-PAP-0330,Staples Paper Model 330,Office Supplies,Paper,65.6
+331,OFF-STA-0331,Staples Staplers Model 331,Office Supplies,Staplers,14.75
+332,OFF-PEN-0332,Staples Pens Model 332,Office Supplies,Pens,59.54
+333,OFF-STA-0333,Staples Staplers Model 333,Office Supplies,Staplers,50.48
+334,OFF-BIN-0334,Staples Binders Model 334,Office Supplies,Binders,22.51
+335,OFF-PEN-0335,Staples Pens Model 335,Office Supplies,Pens,28.99
+336,OFF-STA-0336,Staples Staplers Model 336,Office Supplies,Staplers,15.84
+337,OFF-PEN-0337,Staples Pens Model 337,Office Supplies,Pens,43.07
+338,OFF-PEN-0338,Staples Pens Model 338,Office Supplies,Pens,59.82
+339,OFF-PEN-0339,Staples Pens Model 339,Office Supplies,Pens,19.41
+340,OFF-NOT-0340,Staples Notebooks Model 340,Office Supplies,Notebooks,95.17
+341,OFF-PEN-0341,Staples Pens Model 341,Office Supplies,Pens,99.42
+342,OFF-PEN-0342,Staples Pens Model 342,Office Supplies,Pens,58.02
+343,OFF-STA-0343,Staples Staplers Model 343,Office Supplies,Staplers,62.6
+344,OFF-NOT-0344,Staples Notebooks Model 344,Office Supplies,Notebooks,26.44
+345,OFF-NOT-0345,Staples Notebooks Model 345,Office Supplies,Notebooks,41.14
+346,OFF-STA-0346,Staples Staplers Model 346,Office Supplies,Staplers,33.25
+347,OFF-NOT-0347,Staples Notebooks Model 347,Office Supplies,Notebooks,99.05
+348,OFF-BIN-0348,Staples Binders Model 348,Office Supplies,Binders,59.02
+349,OFF-PEN-0349,Staples Pens Model 349,Office Supplies,Pens,62.91
+350,OFF-PEN-0350,Staples Pens Model 350,Office Supplies,Pens,95.02
+351,OFF-PAP-0351,Staples Paper Model 351,Office Supplies,Paper,64.42
+352,OFF-BIN-0352,Staples Binders Model 352,Office Supplies,Binders,67.74
+353,OFF-PAP-0353,Staples Paper Model 353,Office Supplies,Paper,27.79
+354,OFF-NOT-0354,Staples Notebooks Model 354,Office Supplies,Notebooks,12.13
+355,OFF-PEN-0355,Staples Pens Model 355,Office Supplies,Pens,43.81
+356,OFF-NOT-0356,Staples Notebooks Model 356,Office Supplies,Notebooks,49.64
+357,OFF-PEN-0357,Staples Pens Model 357,Office Supplies,Pens,26.99
+358,OFF-BIN-0358,Staples Binders Model 358,Office Supplies,Binders,71.78
+359,OFF-STA-0359,Staples Staplers Model 359,Office Supplies,Staplers,11.76
+360,OFF-PAP-0360,Staples Paper Model 360,Office Supplies,Paper,92.77
+361,OFF-NOT-0361,Staples Notebooks Model 361,Office Supplies,Notebooks,67.81
+362,OFF-PAP-0362,Staples Paper Model 362,Office Supplies,Paper,45.39
+363,OFF-NOT-0363,Staples Notebooks Model 363,Office Supplies,Notebooks,26.36
+364,OFF-PAP-0364,Staples Paper Model 364,Office Supplies,Paper,91.3
+365,OFF-PAP-0365,Staples Paper Model 365,Office Supplies,Paper,11.78
+366,OFF-PAP-0366,Staples Paper Model 366,Office Supplies,Paper,80.3
+367,OFF-NOT-0367,Staples Notebooks Model 367,Office Supplies,Notebooks,76.15
+368,OFF-NOT-0368,Staples Notebooks Model 368,Office Supplies,Notebooks,92.51
+369,OFF-STA-0369,Staples Staplers Model 369,Office Supplies,Staplers,16.81
+370,OFF-BIN-0370,Staples Binders Model 370,Office Supplies,Binders,71.47
+371,OFF-BIN-0371,Staples Binders Model 371,Office Supplies,Binders,52.54
+372,OFF-STA-0372,Staples Staplers Model 372,Office Supplies,Staplers,46.59
+373,OFF-NOT-0373,Staples Notebooks Model 373,Office Supplies,Notebooks,8.79
+374,OFF-STA-0374,Staples Staplers Model 374,Office Supplies,Staplers,74.78
+375,OFF-NOT-0375,Staples Notebooks Model 375,Office Supplies,Notebooks,28.78
+376,OFF-PEN-0376,Staples Pens Model 376,Office Supplies,Pens,26.75
+377,OFF-NOT-0377,Staples Notebooks Model 377,Office Supplies,Notebooks,60.78
+378,OFF-PEN-0378,Staples Pens Model 378,Office Supplies,Pens,99.96
+379,OFF-BIN-0379,Staples Binders Model 379,Office Supplies,Binders,59.74
+380,OFF-PAP-0380,Staples Paper Model 380,Office Supplies,Paper,49.7
+381,OFF-STA-0381,Staples Staplers Model 381,Office Supplies,Staplers,92.03
+382,OFF-PAP-0382,Staples Paper Model 382,Office Supplies,Paper,99.71
+383,OFF-STA-0383,Staples Staplers Model 383,Office Supplies,Staplers,65.3
+384,OFF-STA-0384,Staples Staplers Model 384,Office Supplies,Staplers,97.06
+385,OFF-STA-0385,Staples Staplers Model 385,Office Supplies,Staplers,38.06
+386,OFF-BIN-0386,Staples Binders Model 386,Office Supplies,Binders,35.5
+387,OFF-PEN-0387,Staples Pens Model 387,Office Supplies,Pens,86.48
+388,OFF-BIN-0388,Staples Binders Model 388,Office Supplies,Binders,44.11
+389,OFF-STA-0389,Staples Staplers Model 389,Office Supplies,Staplers,32.38
+390,OFF-STA-0390,Staples Staplers Model 390,Office Supplies,Staplers,82.29
+391,OFF-NOT-0391,Staples Notebooks Model 391,Office Supplies,Notebooks,8.49
+392,OFF-PEN-0392,Staples Pens Model 392,Office Supplies,Pens,34.88
+393,OFF-BIN-0393,Staples Binders Model 393,Office Supplies,Binders,16.01
+394,OFF-STA-0394,Staples Staplers Model 394,Office Supplies,Staplers,87.17
+395,OFF-PEN-0395,Staples Pens Model 395,Office Supplies,Pens,67.48
+396,OFF-NOT-0396,Staples Notebooks Model 396,Office Supplies,Notebooks,48.89
+397,OFF-PEN-0397,Staples Pens Model 397,Office Supplies,Pens,22.82
+398,OFF-BIN-0398,Staples Binders Model 398,Office Supplies,Binders,64.15
+399,OFF-STA-0399,Staples Staplers Model 399,Office Supplies,Staplers,64.41
+400,OFF-PEN-0400,Staples Pens Model 400,Office Supplies,Pens,24.34
+401,OFF-NOT-0401,Staples Notebooks Model 401,Office Supplies,Notebooks,17.45
+402,OFF-BIN-0402,Staples Binders Model 402,Office Supplies,Binders,46.62
+403,OFF-STA-0403,Staples Staplers Model 403,Office Supplies,Staplers,16.54
+404,OFF-NOT-0404,Staples Notebooks Model 404,Office Supplies,Notebooks,80.93
+405,OFF-PAP-0405,Staples Paper Model 405,Office Supplies,Paper,34.52
+406,OFF-PEN-0406,Staples Pens Model 406,Office Supplies,Pens,57.46
+407,OFF-PEN-0407,Staples Pens Model 407,Office Supplies,Pens,26.35
+408,OFF-PEN-0408,Staples Pens Model 408,Office Supplies,Pens,48.84
+409,OFF-PEN-0409,Staples Pens Model 409,Office Supplies,Pens,66.53
+410,OFF-PAP-0410,Staples Paper Model 410,Office Supplies,Paper,52.35
+411,OFF-BIN-0411,Staples Binders Model 411,Office Supplies,Binders,53.34
+412,OFF-BIN-0412,Staples Binders Model 412,Office Supplies,Binders,44.47
+413,OFF-STA-0413,Staples Staplers Model 413,Office Supplies,Staplers,98.12
+414,OFF-PAP-0414,Staples Paper Model 414,Office Supplies,Paper,48.39
+415,OFF-PAP-0415,Staples Paper Model 415,Office Supplies,Paper,41.44
+416,OFF-NOT-0416,Staples Notebooks Model 416,Office Supplies,Notebooks,53.28
+417,OFF-PAP-0417,Staples Paper Model 417,Office Supplies,Paper,87.08
+418,OFF-BIN-0418,Staples Binders Model 418,Office Supplies,Binders,78.4
+419,OFF-STA-0419,Staples Staplers Model 419,Office Supplies,Staplers,37.29
+420,OFF-NOT-0420,Staples Notebooks Model 420,Office Supplies,Notebooks,30.38
+421,OFF-PEN-0421,Staples Pens Model 421,Office Supplies,Pens,31.87
+422,OFF-BIN-0422,Staples Binders Model 422,Office Supplies,Binders,84.56
+423,OFF-NOT-0423,Staples Notebooks Model 423,Office Supplies,Notebooks,99.9
+424,OFF-STA-0424,Staples Staplers Model 424,Office Supplies,Staplers,87.2
+425,OFF-STA-0425,Staples Staplers Model 425,Office Supplies,Staplers,56.17
+426,OFF-BIN-0426,Staples Binders Model 426,Office Supplies,Binders,36.58
+427,OFF-NOT-0427,Staples Notebooks Model 427,Office Supplies,Notebooks,40.83
+428,OFF-BIN-0428,Staples Binders Model 428,Office Supplies,Binders,87.61
+429,OFF-PAP-0429,Staples Paper Model 429,Office Supplies,Paper,59.32
+430,OFF-PAP-0430,Staples Paper Model 430,Office Supplies,Paper,86.32
+431,OFF-STA-0431,Staples Staplers Model 431,Office Supplies,Staplers,9.15
+432,OFF-STA-0432,Staples Staplers Model 432,Office Supplies,Staplers,72.0
+433,OFF-STA-0433,Staples Staplers Model 433,Office Supplies,Staplers,41.68
+434,OFF-PAP-0434,Staples Paper Model 434,Office Supplies,Paper,52.06
+435,OFF-PEN-0435,Staples Pens Model 435,Office Supplies,Pens,16.99
+436,OFF-NOT-0436,Staples Notebooks Model 436,Office Supplies,Notebooks,36.54
+437,OFF-PEN-0437,Staples Pens Model 437,Office Supplies,Pens,88.05
+438,OFF-STA-0438,Staples Staplers Model 438,Office Supplies,Staplers,14.47
+439,OFF-STA-0439,Staples Staplers Model 439,Office Supplies,Staplers,6.46
+440,OFF-PAP-0440,Staples Paper Model 440,Office Supplies,Paper,43.95
+441,OFF-PAP-0441,Staples Paper Model 441,Office Supplies,Paper,12.11
+442,OFF-BIN-0442,Staples Binders Model 442,Office Supplies,Binders,37.16
+443,OFF-STA-0443,Staples Staplers Model 443,Office Supplies,Staplers,66.73
+444,OFF-BIN-0444,Staples Binders Model 444,Office Supplies,Binders,85.97
+445,OFF-NOT-0445,Staples Notebooks Model 445,Office Supplies,Notebooks,41.1
+446,OFF-BIN-0446,Staples Binders Model 446,Office Supplies,Binders,64.55
+447,OFF-STA-0447,Staples Staplers Model 447,Office Supplies,Staplers,87.88
+448,OFF-PEN-0448,Staples Pens Model 448,Office Supplies,Pens,63.66
+449,OFF-PAP-0449,Staples Paper Model 449,Office Supplies,Paper,64.96
+450,OFF-BIN-0450,Staples Binders Model 450,Office Supplies,Binders,99.76
+451,OFF-PEN-0451,Staples Pens Model 451,Office Supplies,Pens,46.23
+452,OFF-PEN-0452,Staples Pens Model 452,Office Supplies,Pens,77.24
+453,OFF-PEN-0453,Staples Pens Model 453,Office Supplies,Pens,47.15
+454,OFF-BIN-0454,Staples Binders Model 454,Office Supplies,Binders,90.83
+455,OFF-PEN-0455,Staples Pens Model 455,Office Supplies,Pens,35.82
+456,OFF-PEN-0456,Staples Pens Model 456,Office Supplies,Pens,32.87
+457,OFF-BIN-0457,Staples Binders Model 457,Office Supplies,Binders,45.92
+458,OFF-PAP-0458,Staples Paper Model 458,Office Supplies,Paper,55.46
+459,OFF-NOT-0459,Staples Notebooks Model 459,Office Supplies,Notebooks,69.77
+460,OFF-PAP-0460,Staples Paper Model 460,Office Supplies,Paper,21.15
+461,OFF-PEN-0461,Staples Pens Model 461,Office Supplies,Pens,62.9
+462,OFF-STA-0462,Staples Staplers Model 462,Office Supplies,Staplers,63.87
+463,OFF-PAP-0463,Staples Paper Model 463,Office Supplies,Paper,52.28
+464,OFF-NOT-0464,Staples Notebooks Model 464,Office Supplies,Notebooks,18.6
+465,OFF-STA-0465,Staples Staplers Model 465,Office Supplies,Staplers,65.6
+466,OFF-STA-0466,Staples Staplers Model 466,Office Supplies,Staplers,29.26
+467,OFF-PEN-0467,Staples Pens Model 467,Office Supplies,Pens,90.4
+468,OFF-STA-0468,Staples Staplers Model 468,Office Supplies,Staplers,90.61
+469,OFF-NOT-0469,Staples Notebooks Model 469,Office Supplies,Notebooks,20.01
+470,OFF-STA-0470,Staples Staplers Model 470,Office Supplies,Staplers,94.8
+471,OFF-NOT-0471,Staples Notebooks Model 471,Office Supplies,Notebooks,33.42
+472,OFF-STA-0472,Staples Staplers Model 472,Office Supplies,Staplers,70.58
+473,OFF-STA-0473,Staples Staplers Model 473,Office Supplies,Staplers,85.3
+474,OFF-PAP-0474,Staples Paper Model 474,Office Supplies,Paper,99.94
+475,OFF-STA-0475,Staples Staplers Model 475,Office Supplies,Staplers,15.13
+476,OFF-STA-0476,Staples Staplers Model 476,Office Supplies,Staplers,59.33
+477,OFF-NOT-0477,Staples Notebooks Model 477,Office Supplies,Notebooks,33.11
+478,OFF-BIN-0478,Staples Binders Model 478,Office Supplies,Binders,7.08
+479,OFF-STA-0479,Staples Staplers Model 479,Office Supplies,Staplers,31.08
+480,OFF-NOT-0480,Staples Notebooks Model 480,Office Supplies,Notebooks,87.18
+481,OFF-PEN-0481,Staples Pens Model 481,Office Supplies,Pens,91.51
+482,OFF-STA-0482,Staples Staplers Model 482,Office Supplies,Staplers,84.12
+483,OFF-BIN-0483,Staples Binders Model 483,Office Supplies,Binders,78.7
+484,OFF-PAP-0484,Staples Paper Model 484,Office Supplies,Paper,62.67
+485,OFF-BIN-0485,Staples Binders Model 485,Office Supplies,Binders,25.81
+486,OFF-PAP-0486,Staples Paper Model 486,Office Supplies,Paper,63.98
+487,OFF-PAP-0487,Staples Paper Model 487,Office Supplies,Paper,64.68
+488,OFF-PEN-0488,Staples Pens Model 488,Office Supplies,Pens,34.35
+489,OFF-STA-0489,Staples Staplers Model 489,Office Supplies,Staplers,8.17
+490,OFF-BIN-0490,Staples Binders Model 490,Office Supplies,Binders,74.57
+491,OFF-PEN-0491,Staples Pens Model 491,Office Supplies,Pens,91.41
+492,OFF-BIN-0492,Staples Binders Model 492,Office Supplies,Binders,76.01
+493,OFF-PAP-0493,Staples Paper Model 493,Office Supplies,Paper,24.08
+494,OFF-NOT-0494,Staples Notebooks Model 494,Office Supplies,Notebooks,88.26
+495,OFF-BIN-0495,Staples Binders Model 495,Office Supplies,Binders,55.43
+496,OFF-BIN-0496,Staples Binders Model 496,Office Supplies,Binders,83.89
+497,OFF-BIN-0497,Staples Binders Model 497,Office Supplies,Binders,91.83
+498,OFF-STA-0498,Staples Staplers Model 498,Office Supplies,Staplers,96.9
+499,OFF-BIN-0499,Staples Binders Model 499,Office Supplies,Binders,75.92
+500,OFF-BIN-0500,Staples Binders Model 500,Office Supplies,Binders,81.4

@@ -1,0 +1,56 @@
+location_id,location_type,location_name,city,province,region
+1,Fulfillment Center,Toronto FC,Toronto,Ontario,Eastern
+2,Fulfillment Center,Mississauga FC,Mississauga,Ontario,Eastern
+3,Fulfillment Center,Richmond Hill FC,Richmond Hill,Ontario,Eastern
+4,Fulfillment Center,Calgary FC,Calgary,Alberta,Western
+5,Fulfillment Center,Montreal FC,Montreal,Quebec,Eastern
+6,Store,Staples Store Toronto #6,Toronto,Ontario,Eastern
+7,Store,Staples Store Toronto #7,Toronto,Ontario,Eastern
+8,Store,Staples Store Toronto #8,Toronto,Ontario,Eastern
+9,Store,Staples Store Toronto #9,Toronto,Ontario,Eastern
+10,Store,Staples Store Toronto #10,Toronto,Ontario,Eastern
+11,Store,Staples Store Toronto #11,Toronto,Ontario,Eastern
+12,Store,Staples Store Toronto #12,Toronto,Ontario,Eastern
+13,Store,Staples Store Toronto #13,Toronto,Ontario,Eastern
+14,Store,Staples Store Toronto #14,Toronto,Ontario,Eastern
+15,Store,Staples Store Toronto #15,Toronto,Ontario,Eastern
+16,Store,Staples Store Toronto #16,Toronto,Ontario,Eastern
+17,Store,Staples Store Toronto #17,Toronto,Ontario,Eastern
+18,Store,Staples Store Toronto #18,Toronto,Ontario,Eastern
+19,Store,Staples Store Toronto #19,Toronto,Ontario,Eastern
+20,Store,Staples Store Toronto #20,Toronto,Ontario,Eastern
+21,Store,Staples Store Mississauga #21,Mississauga,Ontario,Eastern
+22,Store,Staples Store Mississauga #22,Mississauga,Ontario,Eastern
+23,Store,Staples Store Mississauga #23,Mississauga,Ontario,Eastern
+24,Store,Staples Store Mississauga #24,Mississauga,Ontario,Eastern
+25,Store,Staples Store Mississauga #25,Mississauga,Ontario,Eastern
+26,Store,Staples Store Mississauga #26,Mississauga,Ontario,Eastern
+27,Store,Staples Store Mississauga #27,Mississauga,Ontario,Eastern
+28,Store,Staples Store Mississauga #28,Mississauga,Ontario,Eastern
+29,Store,Staples Store Mississauga #29,Mississauga,Ontario,Eastern
+30,Store,Staples Store Mississauga #30,Mississauga,Ontario,Eastern
+31,Store,Staples Store Ottawa #31,Ottawa,Ontario,Eastern
+32,Store,Staples Store Ottawa #32,Ottawa,Ontario,Eastern
+33,Store,Staples Store Ottawa #33,Ottawa,Ontario,Eastern
+34,Store,Staples Store Ottawa #34,Ottawa,Ontario,Eastern
+35,Store,Staples Store Ottawa #35,Ottawa,Ontario,Eastern
+36,Store,Staples Store Vancouver #36,Vancouver,British Columbia,Western
+37,Store,Staples Store Vancouver #37,Vancouver,British Columbia,Western
+38,Store,Staples Store Vancouver #38,Vancouver,British Columbia,Western
+39,Store,Staples Store Vancouver #39,Vancouver,British Columbia,Western
+40,Store,Staples Store Vancouver #40,Vancouver,British Columbia,Western
+41,Store,Staples Store Vancouver #41,Vancouver,British Columbia,Western
+42,Store,Staples Store Vancouver #42,Vancouver,British Columbia,Western
+43,Store,Staples Store Vancouver #43,Vancouver,British Columbia,Western
+44,Store,Staples Store Vancouver #44,Vancouver,British Columbia,Western
+45,Store,Staples Store Vancouver #45,Vancouver,British Columbia,Western
+46,Store,Staples Store Calgary #46,Calgary,Alberta,Western
+47,Store,Staples Store Calgary #47,Calgary,Alberta,Western
+48,Store,Staples Store Calgary #48,Calgary,Alberta,Western
+49,Store,Staples Store Calgary #49,Calgary,Alberta,Western
+50,Store,Staples Store Calgary #50,Calgary,Alberta,Western
+51,Store,Staples Store Montreal #51,Montreal,Quebec,Eastern
+52,Store,Staples Store Montreal #52,Montreal,Quebec,Eastern
+53,Store,Staples Store Montreal #53,Montreal,Quebec,Eastern
+54,Store,Staples Store Montreal #54,Montreal,Quebec,Eastern
+55,Store,Staples Store Montreal #55,Montreal,Quebec,Eastern

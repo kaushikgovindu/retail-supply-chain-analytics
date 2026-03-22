@@ -1,0 +1,5 @@
+carrier_id,carrier_name,service_level
+1,Canada Post,Standard
+2,Purolator,Next Day
+3,UPS Canada,2-Day
+4,Internal Fleet,Standard LTL
